@@ -1,0 +1,18 @@
+import java.util.*;
+
+// Assign +/- to each number so the signed sum equals target; count the ways.
+class TargetSum {
+    static int findTargetSumWays(int[] nums, int target) {
+        return dfs(0, 0, nums, target, new HashMap<>());
+    }
+
+    private static int dfs(int i, int sum, int[] nums, int target, Map<String, Integer> cache) {
+        if (i == nums.length) return sum == target ? 1 : 0;
+        String key = i + "+" + sum;
+        if (cache.containsKey(key)) return cache.get(key);
+        int ans = dfs(i + 1, sum + nums[i], nums, target, cache)
+                + dfs(i + 1, sum - nums[i], nums, target, cache);
+        cache.put(key, ans);
+        return ans;
+    }
+}
