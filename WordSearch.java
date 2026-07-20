@@ -1,3 +1,11 @@
+/* PROBLEM ------------------------------------------------------
+ * Word Search  |  Medium
+ * Topics: Backtracking, Grid
+ * Does the word exist along 4-directionally adjacent cells (no reuse)?
+ * Example: board+"ABCCED" → true
+ * LeetCode: https://leetcode.com/problems/word-search/
+ */
+
 // DFS from each cell; temporarily blank a used cell to avoid reuse.
 class WordSearch {
     static boolean exist(char[][] board, String word) {

@@ -1,3 +1,11 @@
+/* PROBLEM ------------------------------------------------------
+ * Generate Parentheses  |  Medium
+ * Topics: Backtracking, String
+ * All valid combinations of n pairs of parentheses.
+ * Example: n=3 → 5 strings
+ * LeetCode: https://leetcode.com/problems/generate-parentheses/
+ */
+
 import java.util.*;
 
 // Place '(' while any remain; place ')' only while it wouldn't unbalance.

@@ -1,3 +1,11 @@
+/* PROBLEM ------------------------------------------------------
+ * Tree Traversals  |  Easy
+ * Topics: Tree
+ * Pre-order, in-order, and post-order DFS traversals of a binary tree.
+ * Example: in-order of [1,null,2,3] → [1,3,2]
+ * LeetCode: https://leetcode.com/problems/binary-tree-inorder-traversal/
+ */
+
 import java.util.*;
 
 // The three depth-first orders, each returning the visited values.

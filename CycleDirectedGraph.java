@@ -1,3 +1,10 @@
+/* PROBLEM ------------------------------------------------------
+ * Cycle in Directed Graph  |  Medium
+ * Topics: Graph
+ * Detect a cycle in a directed graph (DFS recursion-stack and Kahn's BFS).
+ * LeetCode: https://leetcode.com/problems/course-schedule/
+ */
+
 import java.util.*;
 
 // graph = adjacency list of a directed graph.

@@ -1,3 +1,11 @@
+/* PROBLEM ------------------------------------------------------
+ * Merge Intervals  |  Medium
+ * Topics: Interval
+ * Merge all overlapping intervals.
+ * Example: [[1,3],[2,6],[8,10]] → [[1,6],[8,10]]
+ * LeetCode: https://leetcode.com/problems/merge-intervals/
+ */
+
 import java.util.*;
 
 class MergeIntervals {

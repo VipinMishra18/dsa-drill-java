@@ -1,3 +1,11 @@
+/* PROBLEM ------------------------------------------------------
+ * Longest Palindromic Substring  |  Medium
+ * Topics: Two pointer, String
+ * Longest palindromic substring (expand around each center).
+ * Example: "babad" → "bab"
+ * LeetCode: https://leetcode.com/problems/longest-palindromic-substring/
+ */
+
 // Expand around each center (odd + even) and track the longest window.
 class LongestPalindromicSubstring {
     static String longestPalindrome(String s) {

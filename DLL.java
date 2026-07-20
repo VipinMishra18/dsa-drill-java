@@ -1,3 +1,9 @@
+/* PROBLEM ------------------------------------------------------
+ * Doubly linked list  |  Core
+ * Topics: Doubly Linked List
+ * Doubly-linked list with sentinel head/tail; supports the LRU cache.
+ */
+
 // Partial doubly linked list with sentinel head/tail.
 // Built to support LRU Cache for now (matches the original note).
 class DLL {

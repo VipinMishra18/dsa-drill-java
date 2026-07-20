@@ -1,3 +1,11 @@
+/* PROBLEM ------------------------------------------------------
+ * Valid parenthesis  |  Easy
+ * Topics: Stack
+ * Is the string of ()[]{} brackets validly matched and nested?
+ * Example: "([]{})" → true, "(]" → false
+ * LeetCode: https://leetcode.com/problems/valid-parentheses/
+ */
+
 import java.util.*;
 
 class ValidParenthesis {

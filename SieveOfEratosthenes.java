@@ -1,3 +1,10 @@
+/* PROBLEM ------------------------------------------------------
+ * Sieve of Eratosthenes  |  Core
+ * Topics: Math
+ * All primes ≤ n via the Sieve of Eratosthenes.
+ * Example: n=11 → [2,3,5,7,11]
+ */
+
 import java.util.*;
 
 // All primes up to n; cross out multiples starting at i*i.

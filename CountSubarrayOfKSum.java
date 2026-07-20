@@ -1,3 +1,11 @@
+/* PROBLEM ------------------------------------------------------
+ * Count subarray of K sum  |  Medium
+ * Topics: Array, Hash Map, Prefix Sum
+ * Count contiguous subarrays whose sum equals k.
+ * Example: [1,1,1], k=2 → 2
+ * LeetCode: https://leetcode.com/problems/subarray-sum-equals-k/
+ */
+
 import java.util.*;
 
 class CountSubarrayOfKSum {

@@ -1,3 +1,9 @@
+/* PROBLEM ------------------------------------------------------
+ * Tree Node Path  |  Medium
+ * Topics: Tree
+ * Find the root→target path in a binary tree (backtracking).
+ */
+
 import java.util.*;
 
 // Fills `ans` with the root->target path; returns whether target was found.

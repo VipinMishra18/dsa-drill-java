@@ -1,3 +1,11 @@
+/* PROBLEM ------------------------------------------------------
+ * Threesome  |  Medium
+ * Topics: Array
+ * All unique triplets that sum to zero.
+ * Example: [-1,0,1,2,-1,-4] → [[-1,-1,2],[-1,0,1]]
+ * LeetCode: https://leetcode.com/problems/3sum/
+ */
+
 import java.util.*;
 
 // 3Sum: all unique triplets summing to 0.

@@ -1,3 +1,10 @@
+/* PROBLEM ------------------------------------------------------
+ * Interval overlap or touch  |  Core
+ * Topics: Interval
+ * Do two intervals overlap or touch at an endpoint?
+ * Example: [1,2],[2,3] → true
+ */
+
 // Two intervals overlap OR touch at an endpoint. Order-independent.
 class IntervalOverlapOrTouch {
     static boolean overlapOrTouch(int[] p1, int[] p2) {

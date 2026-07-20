@@ -1,3 +1,9 @@
+/* PROBLEM ------------------------------------------------------
+ * Shortest Path Directed Acyclic Graph  |  Medium
+ * Topics: Graph
+ * Single-source shortest paths in a weighted DAG (topo order + relax).
+ */
+
 import java.util.*;
 
 // Single-source shortest paths in a weighted DAG: topo order (DFS stack), then relax.

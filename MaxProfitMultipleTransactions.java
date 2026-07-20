@@ -1,3 +1,11 @@
+/* PROBLEM ------------------------------------------------------
+ * Max Profit Multiple Transactions  |  Medium
+ * Topics: DP
+ * Max profit with unlimited buy/sell transactions.
+ * Example: [7,1,5,3,6,4] → 7
+ * LeetCode: https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/
+ */
+
 // Unlimited transactions: grab every positive delta.
 class MaxProfitMultipleTransactions {
     static int maxProfit(int[] prices) {

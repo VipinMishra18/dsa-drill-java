@@ -1,3 +1,10 @@
+/* PROBLEM ------------------------------------------------------
+ * Rotate matrix  |  Medium
+ * Topics: Array
+ * Rotate an n×n matrix by 90° clockwise, in place (transpose + flip).
+ * LeetCode: https://leetcode.com/problems/rotate-image/
+ */
+
 // Rotate a square matrix 90 degrees: transpose, then flip horizontally.
 class RotateMatrix {
     static void rotateSquareGrid(int[][] matrix) {

@@ -1,3 +1,10 @@
+/* PROBLEM ------------------------------------------------------
+ * Point inside rectangle  |  Core
+ * Topics: Geometry
+ * Is a point strictly inside an axis-aligned rectangle given two opposite
+ * corners?
+ */
+
 // point = {x, y}; rect = {{x1,y1}, {x2,y2}} opposite corners. Strictly inside.
 class PointInsideRectangle {
     static boolean pointInsideRect(int[] point, int[][] rect) {

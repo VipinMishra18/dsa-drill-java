@@ -1,3 +1,11 @@
+/* PROBLEM ------------------------------------------------------
+ * Tree Diameter  |  Easy
+ * Topics: Tree
+ * Longest path (in edges) between any two nodes; may not pass the root.
+ * Example: [1,2,3,4,5] → 3
+ * LeetCode: https://leetcode.com/problems/diameter-of-binary-tree/
+ */
+
 // Diameter = longest path (in edges) between any two nodes; may not pass root.
 class TreeDiameter {
     static int treeDiameter(TreeNode root) {

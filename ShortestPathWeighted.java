@@ -1,3 +1,10 @@
+/* PROBLEM ------------------------------------------------------
+ * Shortest Path Weighted Graph  |  Medium
+ * Topics: Graph, Dijkstra
+ * Shortest path in a non-negative weighted graph (Dijkstra).
+ * LeetCode: https://leetcode.com/problems/network-delay-time/
+ */
+
 import java.util.*;
 
 // Dijkstra. graph.get(u) holds edges {v, w}.

@@ -1,3 +1,9 @@
+/* PROBLEM ------------------------------------------------------
+ * TreeNode  |  Core
+ * Topics: Tree
+ * Binary tree node definition (shared building block).
+ */
+
 // Binary tree node (shared type).
 class TreeNode {
     int val;

@@ -1,3 +1,11 @@
+/* PROBLEM ------------------------------------------------------
+ * Assign Cookies  |  Easy
+ * Topics: Greedy
+ * Max children satisfied when child greed g[i] needs cookie size ≥ g[i].
+ * Example: g=[1,2,3], s=[1,1] → 1
+ * LeetCode: https://leetcode.com/problems/assign-cookies/
+ */
+
 import java.util.*;
 
 // Greedy: satisfy the greediest children with the largest cookies first.

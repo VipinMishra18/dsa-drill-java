@@ -1,3 +1,12 @@
+/* PROBLEM ------------------------------------------------------
+ * Rotated search  |  Medium
+ * Topics: Binary search
+ * Search a target in a rotated sorted array in O(log n); return its index or
+ * -1.
+ * Example: [4,5,6,1,2], t=6 → 2
+ * LeetCode: https://leetcode.com/problems/search-in-rotated-sorted-array/
+ */
+
 // Search a value in a rotated sorted array.
 // Plan (from the original stub):
 //   find pivot idx

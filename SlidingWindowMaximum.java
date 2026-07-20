@@ -1,3 +1,11 @@
+/* PROBLEM ------------------------------------------------------
+ * Sliding Window Maximum  |  Hard
+ * Topics: Sliding Window, Deque
+ * Maximum of every window of size k (monotonic deque).
+ * Example: [1,3,-1,-3,5,3,6,7], k=3 → [3,3,5,5,6,7]
+ * LeetCode: https://leetcode.com/problems/sliding-window-maximum/
+ */
+
 import java.util.*;
 
 // Monotonic deque of indices (decreasing values); front is the window max.

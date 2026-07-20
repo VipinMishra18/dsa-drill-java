@@ -1,3 +1,12 @@
+/* PROBLEM ------------------------------------------------------
+ * LRU cache  |  Medium
+ * Topics: Doubly Linked List, Implementation
+ * Design an LRU cache with O(1) get and put; evict least-recently-used on
+ * overflow.
+ * Example: cap=2: put(1,1),put(2,2),get(1)=1,put(3,3) evicts key 2
+ * LeetCode: https://leetcode.com/problems/lru-cache/
+ */
+
 import java.util.*;
 
 // PUT() -> O(1), GET() -> O(1)

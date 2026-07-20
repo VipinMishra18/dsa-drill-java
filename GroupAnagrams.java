@@ -1,3 +1,11 @@
+/* PROBLEM ------------------------------------------------------
+ * Group Anagrams  |  Medium
+ * Topics: String, Hash Map
+ * Group strings that are anagrams of one another.
+ * Example: ["eat","tea","tan","ate"] → [[eat,tea,ate],[tan]]
+ * LeetCode: https://leetcode.com/problems/group-anagrams/
+ */
+
 import java.util.*;
 
 // Key each word by its sorted characters.

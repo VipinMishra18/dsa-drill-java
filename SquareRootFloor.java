@@ -1,3 +1,11 @@
+/* PROBLEM ------------------------------------------------------
+ * Square Root Floor  |  Easy
+ * Topics: Math, Binary search
+ * Integer square root: floor(√n) without using a sqrt function.
+ * Example: n=8 → 2
+ * LeetCode: https://leetcode.com/problems/sqrtx/
+ */
+
 class SquareRootFloor {
     static int squareRootFloorValue(int num) {
         if (num <= 1) return num;

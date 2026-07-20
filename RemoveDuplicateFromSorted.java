@@ -1,3 +1,11 @@
+/* PROBLEM ------------------------------------------------------
+ * Remove Duplicate from sorted  |  Easy
+ * Topics: Array
+ * Remove duplicates in place from a sorted array; return the new length.
+ * Example: [1,1,2] → 2
+ * LeetCode: https://leetcode.com/problems/remove-duplicates-from-sorted-array/
+ */
+
 // In-place; returns new length. `i` tracks the last unique slot.
 class RemoveDuplicateFromSorted {
     static int removeDuplicateFromSorted(int[] nums) {

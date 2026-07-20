@@ -1,3 +1,11 @@
+/* PROBLEM ------------------------------------------------------
+ * Pivot  |  Medium
+ * Topics: Binary search
+ * Index of the smallest element (rotation point) in a rotated sorted array.
+ * Example: [4,5,6,1,2,3] → 3
+ * LeetCode: https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
+ */
+
 // Index of the smallest element (rotation point) in a rotated sorted array.
 class Pivot {
     static int pivot(int[] nums) {

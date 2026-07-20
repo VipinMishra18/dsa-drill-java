@@ -1,3 +1,11 @@
+/* PROBLEM ------------------------------------------------------
+ * Permutations  |  Medium
+ * Topics: Backtracking
+ * All permutations of distinct numbers.
+ * Example: [1,2,3] → 6 permutations
+ * LeetCode: https://leetcode.com/problems/permutations/
+ */
+
 import java.util.*;
 
 class Permutations {

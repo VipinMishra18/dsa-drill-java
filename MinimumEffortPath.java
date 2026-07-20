@@ -1,3 +1,10 @@
+/* PROBLEM ------------------------------------------------------
+ * Minimum Effort Path  |  Medium
+ * Topics: Graph, Dijkstra
+ * Minimize the maximum absolute height difference along a path (Dijkstra).
+ * LeetCode: https://leetcode.com/problems/path-with-minimum-effort/
+ */
+
 import java.util.*;
 
 // Minimize the maximum absolute height difference along a path (Dijkstra-style).

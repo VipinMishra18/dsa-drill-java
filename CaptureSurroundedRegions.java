@@ -1,3 +1,10 @@
+/* PROBLEM ------------------------------------------------------
+ * Capture Surrounded Regions  |  Medium
+ * Topics: Graph, DFS
+ * Flip every 'O' region not connected to the border into 'X'.
+ * LeetCode: https://leetcode.com/problems/surrounded-regions/
+ */
+
 // Flip every 'O' region NOT connected to a border into 'X'.
 class CaptureSurroundedRegions {
     private static final int[][] DIRS = {{1, 0}, {-1, 0}, {0, 1}, {0, -1}};

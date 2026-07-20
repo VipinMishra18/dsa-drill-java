@@ -1,3 +1,11 @@
+/* PROBLEM ------------------------------------------------------
+ * Minimum Path Sum  |  Medium
+ * Topics: DP, Grid
+ * Minimum-sum path from top-left to bottom-right (right/down moves).
+ * Example: [[1,3,1],[1,5,1],[4,2,1]] → 7
+ * LeetCode: https://leetcode.com/problems/minimum-path-sum/
+ */
+
 import java.util.*;
 
 class MinimumPathSum {

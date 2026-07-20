@@ -1,3 +1,11 @@
+/* PROBLEM ------------------------------------------------------
+ * Coin Change II  |  Medium
+ * Topics: DP
+ * Number of distinct combinations that make the amount.
+ * Example: [1,2,5], 5 → 4
+ * LeetCode: https://leetcode.com/problems/coin-change-ii/
+ */
+
 import java.util.*;
 
 // Number of combinations that make `amount` (infinite supply).

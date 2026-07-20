@@ -1,3 +1,10 @@
+/* PROBLEM ------------------------------------------------------
+ * Shortest Path in Binary Matrix  |  Medium
+ * Topics: Graph, BFS
+ * Shortest clear 8-directional path from top-left to bottom-right.
+ * LeetCode: https://leetcode.com/problems/shortest-path-in-binary-matrix/
+ */
+
 import java.util.*;
 
 // Shortest clear path (8-directional) from top-left to bottom-right in a 0/1 grid.

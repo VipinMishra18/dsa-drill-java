@@ -1,3 +1,12 @@
+/* PROBLEM ------------------------------------------------------
+ * Rotate array by K  |  Medium
+ * Topics: Array
+ * Rotate the array by k positions (reverse-based and iterative; this impl
+ * rotates left).
+ * Example: [1,2,3,4,5], k=2 → [3,4,5,1,2]
+ * LeetCode: https://leetcode.com/problems/rotate-array/
+ */
+
 // Left rotation by k, two ways.
 class RotateArrayByK {
     // Reverse-based, O(1) extra space.

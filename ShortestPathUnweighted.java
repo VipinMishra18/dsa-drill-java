@@ -1,3 +1,9 @@
+/* PROBLEM ------------------------------------------------------
+ * Shortest Path Unweighted Graph  |  Medium
+ * Topics: Graph, BFS
+ * Shortest path length (edge count) in an unweighted graph via BFS.
+ */
+
 import java.util.*;
 
 // BFS shortest path (edge count) in an unweighted graph.

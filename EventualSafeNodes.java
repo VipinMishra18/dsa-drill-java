@@ -1,3 +1,10 @@
+/* PROBLEM ------------------------------------------------------
+ * Eventual Safe Nodes  |  Medium
+ * Topics: Graph
+ * Nodes from which every path eventually reaches a terminal node (no cycle).
+ * LeetCode: https://leetcode.com/problems/find-eventual-safe-states/
+ */
+
 import java.util.*;
 
 // A node is safe if every path from it leads to a terminal node (no cycle).

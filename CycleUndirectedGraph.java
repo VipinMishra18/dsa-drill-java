@@ -1,3 +1,9 @@
+/* PROBLEM ------------------------------------------------------
+ * Cycle in Undirected Graph  |  Medium
+ * Topics: Graph
+ * Detect a cycle in an undirected graph (DFS and BFS).
+ */
+
 import java.util.*;
 
 // graph = adjacency list of an undirected graph.

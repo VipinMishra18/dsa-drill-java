@@ -1,3 +1,11 @@
+/* PROBLEM ------------------------------------------------------
+ * Jump Game I/II  |  Medium
+ * Topics: DP, DFS, Greedy
+ * Can you reach the last index from index 0? (+ min-jumps variant)
+ * Example: [2,3,1,1,4] → true, [3,2,1,0,4] → false
+ * LeetCode: https://leetcode.com/problems/jump-game/
+ */
+
 // Jump Game I: can we reach the last index? (Greedy "leader" scan.)
 // For Jump Game II (min jumps), uncomment the `jumps` bookkeeping.
 class JumpGame {

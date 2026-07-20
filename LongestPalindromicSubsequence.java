@@ -1,3 +1,11 @@
+/* PROBLEM ------------------------------------------------------
+ * Longest Palindromic Subsequence  |  Medium
+ * Topics: DP, String
+ * Length of the longest palindromic subsequence.
+ * Example: "bbbab" → 4
+ * LeetCode: https://leetcode.com/problems/longest-palindromic-subsequence/
+ */
+
 import java.util.*;
 
 // s="bbbab" -> 4 ("bbbb")

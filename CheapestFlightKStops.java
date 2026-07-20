@@ -1,3 +1,10 @@
+/* PROBLEM ------------------------------------------------------
+ * Cheapest Flight with K Stops  |  Medium
+ * Topics: Graph
+ * Cheapest price from src to dst using at most k stops.
+ * LeetCode: https://leetcode.com/problems/cheapest-flights-within-k-stops/
+ */
+
 import java.util.*;
 
 // Cheapest src->dst using at most k stops. Dijkstra over (cost, node, steps).

@@ -1,3 +1,11 @@
+/* PROBLEM ------------------------------------------------------
+ * Longest Substring Without Repeating  |  Medium
+ * Topics: Sliding Window, String
+ * Length of the longest substring without repeating characters.
+ * Example: "abcabcbb" → 3
+ * LeetCode: https://leetcode.com/problems/longest-substring-without-repeating-characters/
+ */
+
 import java.util.*;
 
 // Sliding window; jump the left edge past the last occurrence of a repeat.

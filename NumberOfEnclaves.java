@@ -1,3 +1,10 @@
+/* PROBLEM ------------------------------------------------------
+ * Number of Enclaves  |  Medium
+ * Topics: Graph, DFS
+ * Count land cells (1) from which you cannot walk off the boundary.
+ * LeetCode: https://leetcode.com/problems/number-of-enclaves/
+ */
+
 // Count land cells (1) that cannot reach the border. Sink border-connected land first.
 class NumberOfEnclaves {
     private static final int[][] DIRS = {{0, 1}, {1, 0}, {0, -1}, {-1, 0}};

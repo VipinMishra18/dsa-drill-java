@@ -1,3 +1,11 @@
+/* PROBLEM ------------------------------------------------------
+ * Majority element  |  Easy
+ * Topics: Array
+ * Element appearing more than n/2 times (Boyer-Moore voting).
+ * Example: [2,2,1,1,1,2,2] → 2
+ * LeetCode: https://leetcode.com/problems/majority-element/
+ */
+
 // Boyer-Moore voting (element appearing > n/2 times).
 class MajorityElement {
     static int majorityElement(int[] nums) {

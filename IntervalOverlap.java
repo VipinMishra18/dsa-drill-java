@@ -1,3 +1,10 @@
+/* PROBLEM ------------------------------------------------------
+ * Interval overlap  |  Core
+ * Topics: Interval
+ * Do two intervals [start,end] strictly overlap?
+ * Example: [1,3],[2,4] → true
+ */
+
 // Two intervals [start, end] share interior (strict overlap). Order-independent.
 class IntervalOverlap {
     static boolean overlap(int[] p1, int[] p2) {

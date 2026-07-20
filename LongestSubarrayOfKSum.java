@@ -1,3 +1,11 @@
+/* PROBLEM ------------------------------------------------------
+ * Longest subarray of K sum  |  Medium
+ * Topics: Array, Hash Map, Sliding Window
+ * Length of the longest contiguous subarray summing to k (hash-map +
+ * sliding-window).
+ * Example: [1,2,3,1,1,1], k=3 → 3
+ */
+
 import java.util.*;
 
 class LongestSubarrayOfKSum {

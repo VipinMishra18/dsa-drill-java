@@ -1,3 +1,11 @@
+/* PROBLEM ------------------------------------------------------
+ * Equal Partition Subset Sum  |  Medium
+ * Topics: DP, Knapsack
+ * Can the array be split into two subsets with equal sum?
+ * Example: [1,5,11,5] → true
+ * LeetCode: https://leetcode.com/problems/partition-equal-subset-sum/
+ */
+
 import java.util.*;
 
 // Can the array split into two subsets of equal sum? (= subset summing to total/2)

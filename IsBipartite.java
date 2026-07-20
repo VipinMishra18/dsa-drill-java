@@ -1,3 +1,10 @@
+/* PROBLEM ------------------------------------------------------
+ * Is Bipartite Graph  |  Medium
+ * Topics: Graph
+ * Can the graph be 2-colored so no edge joins same-color nodes?
+ * LeetCode: https://leetcode.com/problems/is-graph-bipartite/
+ */
+
 import java.util.*;
 
 // 2-color the graph; fail if two adjacent nodes must share a color.

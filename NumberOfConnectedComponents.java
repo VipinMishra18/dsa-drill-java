@@ -1,3 +1,10 @@
+/* PROBLEM ------------------------------------------------------
+ * Number of Connected Components  |  Medium
+ * Topics: Graph
+ * Count connected components of an undirected graph (adjacency list).
+ * LeetCode: https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/
+ */
+
 import java.util.*;
 
 // graph = adjacency list. Count connected components via DFS.

@@ -1,3 +1,11 @@
+/* PROBLEM ------------------------------------------------------
+ * Next Permutation  |  Medium
+ * Topics: Array
+ * Rearrange the array into the next lexicographic permutation, in place.
+ * Example: [1,2,3] → [1,3,2]
+ * LeetCode: https://leetcode.com/problems/next-permutation/
+ */
+
 // In-place next lexicographic permutation.
 class NextPermutation {
     static void nextPermutation(int[] nums) {

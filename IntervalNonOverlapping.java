@@ -1,3 +1,10 @@
+/* PROBLEM ------------------------------------------------------
+ * Interval non-overlapping  |  Core
+ * Topics: Interval
+ * Are two intervals strictly non-overlapping?
+ * Example: [1,2],[3,4] → true
+ */
+
 // Two intervals are strictly non-overlapping. Order-independent.
 class IntervalNonOverlapping {
     static boolean nonOverlapping(int[] p1, int[] p2) {

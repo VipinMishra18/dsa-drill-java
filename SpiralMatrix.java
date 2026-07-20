@@ -1,3 +1,11 @@
+/* PROBLEM ------------------------------------------------------
+ * Spiral matrix  |  Medium
+ * Topics: Array
+ * Return all matrix elements in spiral order.
+ * Example: [[1,2,3],[4,5,6],[7,8,9]] → [1,2,3,6,9,8,7,4,5]
+ * LeetCode: https://leetcode.com/problems/spiral-matrix/
+ */
+
 import java.util.*;
 
 class SpiralMatrix {

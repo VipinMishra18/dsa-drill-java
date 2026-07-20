@@ -1,3 +1,11 @@
+/* PROBLEM ------------------------------------------------------
+ * Longest Common Subsequence  |  Medium
+ * Topics: DP, String
+ * Length of the longest common subsequence of two strings.
+ * Example: "abcde","ace" → 3
+ * LeetCode: https://leetcode.com/problems/longest-common-subsequence/
+ */
+
 import java.util.*;
 
 // text1="abcde", text2="ace" -> 3 ("ace")

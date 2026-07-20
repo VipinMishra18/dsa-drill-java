@@ -1,3 +1,11 @@
+/* PROBLEM ------------------------------------------------------
+ * Nearest Zero in 01 Matrix  |  Medium
+ * Topics: Graph, BFS
+ * Distance from each cell to the nearest 0 (multi-source BFS).
+ * Example: [[0,0,0],[0,1,0],[1,1,1]] → [[0,0,0],[0,1,0],[1,2,1]]
+ * LeetCode: https://leetcode.com/problems/01-matrix/
+ */
+
 import java.util.*;
 
 // Distance of each cell to the nearest 0. Multi-source BFS from all zeros.

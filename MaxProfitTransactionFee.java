@@ -1,3 +1,11 @@
+/* PROBLEM ------------------------------------------------------
+ * Max Profit with Transaction Fee  |  Medium
+ * Topics: DP
+ * Max profit with unlimited transactions, paying a fee per transaction.
+ * Example: [1,3,2,8,4,9], fee=2 → 8
+ * LeetCode: https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/
+ */
+
 import java.util.*;
 
 // Unlimited transactions, pay `fee` per completed transaction (memoized).

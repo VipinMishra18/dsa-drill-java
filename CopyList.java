@@ -1,3 +1,9 @@
+/* PROBLEM ------------------------------------------------------
+ * Copy list  |  Core
+ * Topics: Linked List
+ * Create a deep copy of a singly-linked list.
+ */
+
 class CopyList {
     static ListNode copyList(ListNode head) {
         ListNode dummy = new ListNode();

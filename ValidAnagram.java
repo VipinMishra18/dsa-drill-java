@@ -1,3 +1,11 @@
+/* PROBLEM ------------------------------------------------------
+ * Valid Anagram  |  Easy
+ * Topics: String, Hash Map
+ * Is t an anagram of s?
+ * Example: "anagram","nagaram" → true
+ * LeetCode: https://leetcode.com/problems/valid-anagram/
+ */
+
 // Count up for s, down for t; all zero => anagram.
 class ValidAnagram {
     static boolean isAnagram(String s, String t) {

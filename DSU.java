@@ -1,3 +1,9 @@
+/* PROBLEM ------------------------------------------------------
+ * Disjoint Set Union(DSU)  |  Core
+ * Topics: DSU
+ * Disjoint Set Union (union-find) with path compression and union by rank.
+ */
+
 // Disjoint Set Union with path compression + union by rank (shared type).
 class DSU {
     private int[] parent, rank;

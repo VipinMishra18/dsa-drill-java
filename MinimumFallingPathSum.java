@@ -1,3 +1,11 @@
+/* PROBLEM ------------------------------------------------------
+ * Minimum Falling Path Sum  |  Medium
+ * Topics: DP, Grid
+ * Minimum falling path from top to bottom (down or diagonal).
+ * Example: [[2,1,3],[6,5,4],[7,8,9]] → 13
+ * LeetCode: https://leetcode.com/problems/minimum-falling-path-sum/
+ */
+
 import java.util.*;
 
 // Fall top->bottom, moving to the cell directly below or diagonally below.

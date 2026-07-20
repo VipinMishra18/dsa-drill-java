@@ -1,3 +1,10 @@
+/* PROBLEM ------------------------------------------------------
+ * Topological Sort  |  Medium
+ * Topics: Graph
+ * Return a topological ordering of a DAG (DFS and Kahn's); empty if cyclic.
+ * LeetCode: https://leetcode.com/problems/course-schedule-ii/
+ */
+
 import java.util.*;
 
 // n nodes, directed edges [u, v]. Returns empty list if not a DAG.

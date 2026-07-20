@@ -1,3 +1,11 @@
+/* PROBLEM ------------------------------------------------------
+ * Rotten Oranges  |  Medium
+ * Topics: Graph, BFS
+ * Minutes until rot (2) spreads to all fresh (1) oranges via BFS, or -1.
+ * Example: [[2,1,1],[1,1,0],[0,1,1]] → 4
+ * LeetCode: https://leetcode.com/problems/rotting-oranges/
+ */
+
 import java.util.*;
 
 // 0 empty, 1 fresh, 2 rotten. Multi-source BFS; return minutes until none fresh, else -1.

@@ -1,3 +1,10 @@
+/* PROBLEM ------------------------------------------------------
+ * Prefix Sum  |  Core
+ * Topics: Array, Prefix Sum
+ * Build the prefix-sum array where ans[i] = nums[0]+...+nums[i].
+ * Example: [1,2,3] → [1,3,6]
+ */
+
 class PrefixSum {
     static int[] prefixSum(int[] nums) {
         int n = nums.length;

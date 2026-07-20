@@ -1,3 +1,12 @@
+/* PROBLEM ------------------------------------------------------
+ * Median from Data Stream  |  Hard
+ * Topics: Heap, Design
+ * Design a structure that adds numbers and returns the running median (two
+ * heaps).
+ * Example: add 1,2,3 → median 2.0
+ * LeetCode: https://leetcode.com/problems/find-median-from-data-stream/
+ */
+
 import java.util.*;
 
 // Two heaps: max-heap `lo` for the smaller half, min-heap `hi` for the larger half.

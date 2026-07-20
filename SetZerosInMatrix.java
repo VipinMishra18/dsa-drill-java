@@ -1,3 +1,11 @@
+/* PROBLEM ------------------------------------------------------
+ * Set zeros in matrix  |  Medium
+ * Topics: Array
+ * If a cell is 0, set its entire row and column to 0.
+ * Example: [[1,1,1],[1,0,1],[1,1,1]] → [[1,0,1],[0,0,0],[1,0,1]]
+ * LeetCode: https://leetcode.com/problems/set-matrix-zeroes/
+ */
+
 import java.util.*;
 
 class SetZerosInMatrix {

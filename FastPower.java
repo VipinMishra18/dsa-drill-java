@@ -1,3 +1,11 @@
+/* PROBLEM ------------------------------------------------------
+ * Fast Power (Binary Exponentiation)  |  Medium
+ * Topics: Math
+ * Fast exponentiation x^n in O(log n) (+ modular power).
+ * Example: 2^10 → 1024
+ * LeetCode: https://leetcode.com/problems/powx-n/
+ */
+
 class FastPower {
     // x^n via binary exponentiation.
     static double power(double x, int n) {

@@ -1,3 +1,11 @@
+/* PROBLEM ------------------------------------------------------
+ * Kth Largest Element  |  Medium
+ * Topics: Heap
+ * Find the k-th largest element (min-heap of size k).
+ * Example: [3,2,1,5,6,4], k=2 → 5
+ * LeetCode: https://leetcode.com/problems/kth-largest-element-in-an-array/
+ */
+
 import java.util.*;
 
 // Kth largest via a size-k min-heap: the root is the answer.

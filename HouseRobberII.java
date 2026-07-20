@@ -1,3 +1,11 @@
+/* PROBLEM ------------------------------------------------------
+ * House Robber II  |  Medium
+ * Topics: DP, DFS
+ * House Robber where the houses are arranged in a circle.
+ * Example: [2,3,2] → 3
+ * LeetCode: https://leetcode.com/problems/house-robber-ii/
+ */
+
 import java.util.*;
 
 // Houses in a circle: rob either [0, n-2] or [1, n-1], never both ends.

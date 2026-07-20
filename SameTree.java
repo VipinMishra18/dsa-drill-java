@@ -1,3 +1,12 @@
+/* PROBLEM ------------------------------------------------------
+ * Same Tree | Symmetric Tree  |  Easy
+ * Topics: Tree
+ * Are two binary trees structurally identical with equal values? (+
+ * symmetric variant)
+ * Example: [1,2,3] vs [1,2,3] → true
+ * LeetCode: https://leetcode.com/problems/same-tree/
+ */
+
 class SameTree {
     static boolean sameTree(TreeNode root1, TreeNode root2) {
         if (root1 == null && root2 == null) return true;

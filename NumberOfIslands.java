@@ -1,3 +1,11 @@
+/* PROBLEM ------------------------------------------------------
+ * Number of Islands  |  Medium
+ * Topics: Graph, DFS, BFS
+ * Count connected groups of '1' (land) in a grid.
+ * Example: grid with 3 land clusters → 3
+ * LeetCode: https://leetcode.com/problems/number-of-islands/
+ */
+
 // Count connected groups of '1' in a char grid; sink each island via DFS.
 class NumberOfIslands {
     private static final int[][] DIRS = {{-1, 0}, {0, 1}, {1, 0}, {0, -1}};

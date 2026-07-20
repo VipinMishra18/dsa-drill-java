@@ -1,3 +1,11 @@
+/* PROBLEM ------------------------------------------------------
+ * Subsets (Power Set)  |  Medium
+ * Topics: Backtracking
+ * All subsets (the power set) of distinct numbers.
+ * Example: [1,2,3] → 8 subsets
+ * LeetCode: https://leetcode.com/problems/subsets/
+ */
+
 import java.util.*;
 
 // Include/exclude each element.

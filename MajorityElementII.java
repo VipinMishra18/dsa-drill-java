@@ -1,3 +1,11 @@
+/* PROBLEM ------------------------------------------------------
+ * Majority element II  |  Medium
+ * Topics: Array
+ * All elements appearing more than n/3 times.
+ * Example: [3,2,3] → [3]
+ * LeetCode: https://leetcode.com/problems/majority-element-ii/
+ */
+
 import java.util.*;
 
 // Boyer-Moore for elements appearing > n/3 times (at most two candidates).

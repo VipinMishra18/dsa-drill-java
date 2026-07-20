@@ -1,3 +1,11 @@
+/* PROBLEM ------------------------------------------------------
+ * Longest Increasing Subsequence  |  Medium
+ * Topics: DP
+ * Length of the longest strictly increasing subsequence.
+ * Example: [10,9,2,5,3,7,101,18] → 4
+ * LeetCode: https://leetcode.com/problems/longest-increasing-subsequence/
+ */
+
 import java.util.*;
 
 // nums=[10,9,2,5,3,7,101,18] -> 4 ([2,3,7,101])

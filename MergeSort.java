@@ -1,3 +1,11 @@
+/* PROBLEM ------------------------------------------------------
+ * Merge Sort  |  Easy
+ * Topics: Sorting
+ * Sort an array using merge sort: split, sort halves, merge.
+ * Example: [5,2,4,1] → [1,2,4,5]
+ * LeetCode: https://leetcode.com/problems/sort-an-array/
+ */
+
 class MergeSort {
     int[] sortArray(int[] nums) {
         return mergeSort(nums, 0, nums.length - 1);

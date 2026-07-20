@@ -1,3 +1,11 @@
+/* PROBLEM ------------------------------------------------------
+ * Max Profit with Cooldown  |  Medium
+ * Topics: DP
+ * Max profit with unlimited transactions and a 1-day cooldown after selling.
+ * Example: [1,2,3,0,2] → 3
+ * LeetCode: https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/
+ */
+
 import java.util.*;
 
 // Unlimited transactions with a 1-day cooldown after selling (memoized).

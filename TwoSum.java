@@ -1,3 +1,11 @@
+/* PROBLEM ------------------------------------------------------
+ * Two Sum  |  Easy
+ * Topics: Array, Hash Map
+ * Return indices of the two numbers that add up to target.
+ * Example: [2,7,11,15], t=9 → [0,1]
+ * LeetCode: https://leetcode.com/problems/two-sum/
+ */
+
 import java.util.*;
 
 class TwoSum {

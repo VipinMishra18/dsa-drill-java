@@ -1,3 +1,11 @@
+/* PROBLEM ------------------------------------------------------
+ * Minimum Window Substring  |  Hard
+ * Topics: Sliding Window, String
+ * Smallest substring of s containing all characters of t.
+ * Example: s="ADOBECODEBANC", t="ABC" → "BANC"
+ * LeetCode: https://leetcode.com/problems/minimum-window-substring/
+ */
+
 class MinimumWindowSubstring {
     static String minWindow(String s, String t) {
         if (s.length() < t.length()) return "";

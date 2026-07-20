@@ -1,3 +1,11 @@
+/* PROBLEM ------------------------------------------------------
+ * Largest Rectangle in Histogram  |  Hard
+ * Topics: Stack, Monotonic Stack
+ * Largest rectangle area in a histogram (monotonic stack).
+ * Example: [2,1,5,6,2,3] → 10
+ * LeetCode: https://leetcode.com/problems/largest-rectangle-in-histogram/
+ */
+
 import java.util.*;
 
 // Monotonic increasing stack of indices; a sentinel bar of height 0 flushes it.

@@ -1,3 +1,9 @@
+/* PROBLEM ------------------------------------------------------
+ * Upper Bound(Reverse)  |  Core
+ * Topics: Binary search
+ * Upper bound within a descending-sorted range; helper for Next Permutation.
+ */
+
 // In a DESCENDING-sorted range [l, r], return the index of the last element
 // strictly greater than val. Used by Next Permutation on the descending suffix.
 class UpperBoundReverse {

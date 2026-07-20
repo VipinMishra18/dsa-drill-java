@@ -1,3 +1,10 @@
+/* PROBLEM ------------------------------------------------------
+ * Lower Bound  |  Core
+ * Topics: Binary search
+ * Index of the first element ≥ val (else n).
+ * Example: [1,2,2,3], val=2 → 1
+ */
+
 // If val exists -> first occurrence index.
 // Else -> index of next greater element; if none greater -> nums.length (end).
 class LowerBound {

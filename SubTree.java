@@ -1,3 +1,10 @@
+/* PROBLEM ------------------------------------------------------
+ * Sub Tree  |  Easy
+ * Topics: Tree
+ * Is subTree an exact subtree of root?
+ * LeetCode: https://leetcode.com/problems/subtree-of-another-tree/
+ */
+
 class SubTree {
     static boolean isSubTree(TreeNode root, TreeNode subTree) {
         if (root == null) return false;

@@ -1,3 +1,11 @@
+/* PROBLEM ------------------------------------------------------
+ * Maximum matrix sum  |  Medium
+ * Topics: Grid
+ * Maximize the matrix sum by repeatedly negating two adjacent cells.
+ * Example: [[1,-1],[-1,1]] → 4
+ * LeetCode: https://leetcode.com/problems/maximum-matrix-sum/
+ */
+
 // https://leetcode.com/problems/maximum-matrix-sum/
 // Flipping two adjacent signs can move a "-" anywhere. If the count of non-positive
 // cells is even, all can be made positive; if odd, one smallest |value| stays negative.

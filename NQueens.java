@@ -1,3 +1,11 @@
+/* PROBLEM ------------------------------------------------------
+ * N-Queens (count)  |  Hard
+ * Topics: Backtracking
+ * Count distinct ways to place N non-attacking queens.
+ * Example: n=4 → 2
+ * LeetCode: https://leetcode.com/problems/n-queens-ii/
+ */
+
 // Count distinct N-Queens placements. Track used columns and both diagonals.
 class NQueens {
     static int totalNQueens(int n) {

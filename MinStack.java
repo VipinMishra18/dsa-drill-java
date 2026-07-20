@@ -1,3 +1,10 @@
+/* PROBLEM ------------------------------------------------------
+ * Min Stack  |  Medium
+ * Topics: Stack, Design
+ * Design a stack with O(1) push, pop, top, and getMin.
+ * LeetCode: https://leetcode.com/problems/min-stack/
+ */
+
 import java.util.*;
 
 // Stack that returns its minimum in O(1) by storing (value, min-so-far).

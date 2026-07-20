@@ -1,3 +1,11 @@
+/* PROBLEM ------------------------------------------------------
+ * House Robber  |  Medium
+ * Topics: DP, DFS
+ * Max sum of non-adjacent elements (can't rob two neighbors).
+ * Example: [2,7,9,3,1] → 12
+ * LeetCode: https://leetcode.com/problems/house-robber/
+ */
+
 import java.util.*;
 
 // Max sum of non-adjacent houses (top-down DP).

@@ -1,3 +1,11 @@
+/* PROBLEM ------------------------------------------------------
+ * Level Order Traversal (BFS)  |  Medium
+ * Topics: Tree, BFS
+ * BFS level-order traversal, grouped by level.
+ * Example: [3,9,20,null,null,15,7] → [[3],[9,20],[15,7]]
+ * LeetCode: https://leetcode.com/problems/binary-tree-level-order-traversal/
+ */
+
 import java.util.*;
 
 class LevelOrderTraversal {

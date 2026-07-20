@@ -1,3 +1,10 @@
+/* PROBLEM ------------------------------------------------------
+ * Tree To Graph  |  Core
+ * Topics: Tree
+ * Convert a binary tree into an undirected adjacency-list graph keyed by
+ * node value.
+ */
+
 import java.util.*;
 
 // Convert a binary tree into an undirected adjacency-list graph keyed by node value.

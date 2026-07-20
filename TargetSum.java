@@ -1,3 +1,11 @@
+/* PROBLEM ------------------------------------------------------
+ * Target Sum  |  Medium
+ * Topics: DP
+ * Number of ways to assign + / - to reach the target sum.
+ * Example: [1,1,1,1,1], t=3 → 5
+ * LeetCode: https://leetcode.com/problems/target-sum/
+ */
+
 import java.util.*;
 
 // Assign +/- to each number so the signed sum equals target; count the ways.

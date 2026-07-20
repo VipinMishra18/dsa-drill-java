@@ -1,3 +1,11 @@
+/* PROBLEM ------------------------------------------------------
+ * Coin Change  |  Medium
+ * Topics: DP
+ * Fewest coins to make the amount (-1 if impossible); infinite supply.
+ * Example: [1,2,5], 11 → 3
+ * LeetCode: https://leetcode.com/problems/coin-change/
+ */
+
 import java.util.*;
 
 // Fewest coins to make `amount` (infinite supply); -1 if impossible.

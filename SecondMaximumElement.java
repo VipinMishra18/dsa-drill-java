@@ -1,3 +1,10 @@
+/* PROBLEM ------------------------------------------------------
+ * Second Maximum Element  |  Easy
+ * Topics: Array
+ * Return the second-largest distinct element, or -1 if none.
+ * Example: [3,1,3,2] → 2
+ */
+
 class SecondMaximumElement {
     static int secondMaxElement(int[] nums) {
         int first = Integer.MIN_VALUE, second = Integer.MIN_VALUE;

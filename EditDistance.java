@@ -1,3 +1,11 @@
+/* PROBLEM ------------------------------------------------------
+ * Edit Distance  |  Medium
+ * Topics: DP, String
+ * Min insert/delete/replace operations to turn word1 into word2.
+ * Example: "horse","ros" → 3
+ * LeetCode: https://leetcode.com/problems/edit-distance/
+ */
+
 import java.util.*;
 
 // Min insert/delete/replace ops to turn s1 into s2.

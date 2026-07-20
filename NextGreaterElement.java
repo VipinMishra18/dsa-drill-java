@@ -1,3 +1,11 @@
+/* PROBLEM ------------------------------------------------------
+ * Next Greater Element  |  Easy
+ * Topics: Stack, Monotonic Stack
+ * For each element, the next greater element to its right, else -1
+ * (monotonic stack).
+ * Example: [2,1,2,4,3] → [4,2,4,-1,-1]
+ */
+
 import java.util.*;
 
 // For each element, the next strictly greater element to its right (-1 if none).

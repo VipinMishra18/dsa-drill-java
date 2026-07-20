@@ -1,3 +1,10 @@
+/* PROBLEM ------------------------------------------------------
+ * Flood Fill  |  Easy
+ * Topics: Graph, DFS
+ * Flood-fill the region connected to (sr,sc) with a new color.
+ * LeetCode: https://leetcode.com/problems/flood-fill/
+ */
+
 class FloodFill {
     private static final int[][] DIRS = {{1, 0}, {-1, 0}, {0, 1}, {0, -1}};
 

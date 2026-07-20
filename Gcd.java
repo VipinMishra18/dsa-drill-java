@@ -1,3 +1,10 @@
+/* PROBLEM ------------------------------------------------------
+ * GCD and LCM  |  Core
+ * Topics: Math
+ * GCD via Euclid's algorithm, and LCM = a*b/gcd.
+ * Example: gcd(48,18)=6, lcm=144
+ */
+
 // Euclid's algorithm.
 class Gcd {
     static int gcd(int a, int b) {

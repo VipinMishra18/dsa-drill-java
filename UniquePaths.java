@@ -1,3 +1,11 @@
+/* PROBLEM ------------------------------------------------------
+ * Unique Paths  |  Medium
+ * Topics: DP, Grid
+ * Count paths from top-left to bottom-right moving only right or down.
+ * Example: m=3, n=2 → 3
+ * LeetCode: https://leetcode.com/problems/unique-paths/
+ */
+
 import java.util.*;
 
 // Paths from top-left to bottom-right moving only down/right.

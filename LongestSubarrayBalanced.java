@@ -1,3 +1,11 @@
+/* PROBLEM ------------------------------------------------------
+ * Longest subarray of balanced  |  Medium
+ * Topics: Subarray, Hash Map
+ * Longest subarray of a binary array with equal 0s and 1s.
+ * Example: [0,1,0,1,1] → 4
+ * LeetCode: https://leetcode.com/problems/contiguous-array/
+ */
+
 import java.util.*;
 
 // nums is binary; "balanced" = equal count of 0s and 1s.

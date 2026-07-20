@@ -3,8 +3,9 @@
 Java DSA drill: **105** solution snippets ported from the [DSA 7-Minute Drill](https://g00d-kid-10.github.io/dsa-7-minute-drill/), plus **26** added problems that fill the interview gaps (heaps/top-K, monotonic stack, sliding-window strings, backtracking, tree BFS/LCA/serialize, trie, strings, math) — **131 total**. Every solution is idiomatic Java.
 
 - **One file per problem**, bare snippets (a class + the solution method(s)), single flat package.
-- Solution methods are `static` (`ClassName.method(...)`); stateful ones (`LRUCache`, `DSU`, `MinStack`, `MedianFinder`, `Trie`, `MedianFinder`) are instances.
-- Interactive drill (search, topic filters, syntax highlighting, timed recall/reveal): open `index.html`.
+- Each file opens with a **problem-statement header** (what it asks, an example, difficulty, and a LeetCode link where it maps) so the source is self-documenting.
+- Solution methods are `static` (`ClassName.method(...)`); stateful ones (`LRUCache`, `DSU`, `MinStack`, `MedianFinder`, `Trie`) are instances.
+- Interactive drill (search, topic filters, syntax highlighting, per-problem statement, timed recall/reveal): open `index.html`.
 
 ## Compile
 

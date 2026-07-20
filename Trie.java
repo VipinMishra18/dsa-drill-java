@@ -1,3 +1,10 @@
+/* PROBLEM ------------------------------------------------------
+ * Trie (Prefix Tree)  |  Medium
+ * Topics: Trie, Design
+ * Design a trie (prefix tree) with insert, search, and startsWith.
+ * LeetCode: https://leetcode.com/problems/implement-trie-prefix-tree/
+ */
+
 // Prefix tree over lowercase a-z.
 class Trie {
     private final Trie[] children = new Trie[26];

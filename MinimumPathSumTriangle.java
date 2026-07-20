@@ -1,3 +1,11 @@
+/* PROBLEM ------------------------------------------------------
+ * Minimum Path Sum in Triangle  |  Medium
+ * Topics: DP, Triangle
+ * Minimum path sum from top to bottom of a triangle.
+ * Example: [[2],[3,4],[6,5,7],[4,1,8,3]] → 11
+ * LeetCode: https://leetcode.com/problems/triangle/
+ */
+
 import java.util.*;
 
 class MinimumPathSumTriangle {

@@ -1,3 +1,11 @@
+/* PROBLEM ------------------------------------------------------
+ * Combination Sum I/II  |  Medium
+ * Topics: DP, Knapsack, Backtracking
+ * All combinations summing to target; each number may be reused.
+ * Example: [2,3,6,7], t=7 → [[2,2,3],[7]]
+ * LeetCode: https://leetcode.com/problems/combination-sum/
+ */
+
 import java.util.*;
 
 // Unbounded = reuse each element; Bounded = use once (swap the marked recursive call).

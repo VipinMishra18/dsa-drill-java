@@ -1,3 +1,10 @@
+/* PROBLEM ------------------------------------------------------
+ * Upper Bound  |  Core
+ * Topics: Binary search
+ * Index of the first element strictly greater than val (else n).
+ * Example: [1,2,2,3], val=2 → 3
+ */
+
 // Return index of first element strictly greater than val.
 // If all values are <= val, returns nums.length (end).
 class UpperBound {

@@ -1,3 +1,11 @@
+/* PROBLEM ------------------------------------------------------
+ * Single Element In Sorted Array  |  Medium
+ * Topics: Binary search
+ * Every element appears twice except one; find it in O(log n).
+ * Example: [1,1,2,3,3,4,4,8,8] → 2
+ * LeetCode: https://leetcode.com/problems/single-element-in-a-sorted-array/
+ */
+
 // Input:  [1,1,2,3,3,4,4,8,8]  -> Output: 2
 // The single element breaks the even/odd pairing order.
 // Binary search toward the disturbed half based on whether mid is even/odd.

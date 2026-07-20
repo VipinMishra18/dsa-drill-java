@@ -1,3 +1,10 @@
+/* PROBLEM ------------------------------------------------------
+ * Number of Shortest Paths  |  Medium
+ * Topics: Graph
+ * Count the shortest paths from node 0 to node n-1 in a weighted graph.
+ * LeetCode: https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/
+ */
+
 import java.util.*;
 
 // Count shortest paths from node 0 to node n-1 in a weighted undirected graph.

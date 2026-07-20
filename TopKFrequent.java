@@ -1,3 +1,11 @@
+/* PROBLEM ------------------------------------------------------
+ * Top K Frequent Elements  |  Medium
+ * Topics: Heap, Hash Map
+ * Return the k most frequent elements.
+ * Example: [1,1,1,2,2,3], k=2 → [1,2]
+ * LeetCode: https://leetcode.com/problems/top-k-frequent-elements/
+ */
+
 import java.util.*;
 
 class TopKFrequent {

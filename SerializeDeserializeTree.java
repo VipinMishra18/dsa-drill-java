@@ -1,3 +1,10 @@
+/* PROBLEM ------------------------------------------------------
+ * Serialize/Deserialize Tree  |  Hard
+ * Topics: Tree, Design
+ * Encode a binary tree to a string and decode it back.
+ * LeetCode: https://leetcode.com/problems/serialize-and-deserialize-binary-tree/
+ */
+
 import java.util.*;
 
 // Preorder with '#' for nulls, comma-separated.
